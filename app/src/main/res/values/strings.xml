@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thomas-Compose-Book</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue\n</string>
+</resources>
